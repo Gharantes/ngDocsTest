@@ -84,7 +84,7 @@
         "development": {
           "buildTarget": "myngapp:build:development",
           "ngDoc": {
-            "config": "ng-doc/ng-doc.config.ts"
+            "config": "docs/ng-doc.config.ts"
           }
         }
       },
